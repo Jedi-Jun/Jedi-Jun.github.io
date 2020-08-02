@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Monopriv</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Monopriv</description>
+    <title>Tags on Monopriv by Jun</title>
+    <link>https://jedi-jun.github.io/blog33/tags/</link>
+    <description>Recent content in Tags on Monopriv by Jun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019</copyright>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jedi-jun.github.io/blog33/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
